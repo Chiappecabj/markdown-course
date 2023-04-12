@@ -6,3 +6,6 @@
 let a = "Aguante Bover"
 console.log(a)
 ```
+- [x] Declarar variable
+- [x] Imprimir la variable
+- [ ] Concatenarle "GOD"
